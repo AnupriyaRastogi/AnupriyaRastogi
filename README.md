@@ -1,6 +1,6 @@
 - I’m interested in data driven approaches
-- I’m looking to collaborate on Large Datasets for meaningful analysis
-- How to reach me anupriyarastogi.in@gmail.com
+- I collaborate on large Datasets for meaningful analysis
+- Reach me anupriyarastogi.in@gmail.com
 
 - Programming: Python (Numpy, Pandas, NLTK, Keras, SkLearn, Matplotlib), SQL, Tableau, R, Advanced Excel, Linux
 - Big Data Tools & Frameworks: PySpark, Hadoop, ETL data pipelines
