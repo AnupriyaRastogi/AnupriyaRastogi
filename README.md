@@ -2,7 +2,7 @@
 - I’m looking to collaborate on Large Datasets for meaningful analysis
 - How to reach me anupriyarastogi.in@gmail.com
 
-- Programming: Python (Numpy, Pandas, NLTK, Keras, SkLearn, Matplotlib), SQL, Tableau, R, Advanced Excel.
+- Programming: Python (Numpy, Pandas, NLTK, Keras, SkLearn, Matplotlib), SQL, Tableau, R, Advanced Excel, Linux
 - Big Data Tools & Frameworks: PySpark, Hadoop, ETL data pipelines
 - Statistics: Inferential Statistics, Experimental Design, Hypothesis Testing (A/B Testing), Regression Analysis
 - Machine Learning: Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA, Factor Analysis), Natural Language Processing (Text Analytics), Convolutional Neural Network.
