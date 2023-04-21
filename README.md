@@ -1,6 +1,7 @@
 - I’m interested in data driven approaches
 - I collaborate on large Datasets for meaningful analysis
 - Reach me anupriyarastogi.in@gmail.com
+- LinkedIn- https://www.linkedin.com/in/anupriya-rastogi/
 - Website- https://anupriyarastogiin.wixsite.com/aboutanupriyarastogi
 - Programming: Python (Numpy, Pandas, NLTK, Keras, SkLearn, Matplotlib), SQL, Tableau, R, Advanced Excel, Linux
 - Big Data Tools & Frameworks: PySpark, Hadoop, ETL data pipelines
