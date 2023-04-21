@@ -8,7 +8,12 @@
 - Machine Learning: Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA, Factor Analysis), Natural Language Processing (Text Analytics), Convolutional Neural Network.
 - Business Domain: Enterprise Data Analytics (Data Warehousing), Sales and Marketing Analytics, Customer Segmentation, Customer Lifetime Value and Retention Analysis, Customer Success KPIs, Product Analytics 
 
+## Resume
+[Anupriya_resume_April_2023.pdf](https://github.com/AnupriyaRastogi/AnupriyaRastogi/files/11292668/Anupriya_resume_April_2023.pdf)
+
+
 <!---
 AnupriyaRastogi/AnupriyaRastogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
