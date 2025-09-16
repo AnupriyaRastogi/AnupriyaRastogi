@@ -1,6 +1,6 @@
-- I’m interested in data driven approaches
+- I am interested in data-driven approaches
 - I collaborate on large Datasets for meaningful analysis
-- Reach me anupriyarastogi.in@gmail.com
+- Reach me at anupriyarastogi.in@gmail.com
 - LinkedIn- https://www.linkedin.com/in/anupriya-rastogi/
 - Website- https://anupriyarastogiin.wixsite.com/aboutanupriyarastogi
 - Programming: Python (Numpy, Pandas, NLTK, Keras, SkLearn, Matplotlib), SQL, Tableau, R, Advanced Excel, Linux
